@@ -78,10 +78,10 @@ require_once('TwitterTextFormatter.php');
 use Netgloo\TwitterTextFormatter;
 
 $settings = array(
-  'oauth_access_token' => "4730005967-PfSMWoOCDgF0T8G2CgKl6nu4wH785vfnQTzGW5W",
-    'oauth_access_token_secret' => "9b3BeYmQjYVc7voQSqqGr3fKIT30mUAtLEoG6BiZQdrRN",
-    'consumer_key' => "RMDcGcbHDOfMflW9ogZMuxDUK",
-    'consumer_secret' => "g599UdH5L2IoWPWpf2OfoQmpt66VwntQLyuhv21IB9QQvINtTr"
+  'oauth_access_token' =>""
+    'oauth_access_token_secret' => "",
+    'consumer_key' => "",
+    'consumer_secret' => ""
 );
 
 $screen_name = 'tfj963';
